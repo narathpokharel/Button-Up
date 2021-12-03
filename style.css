@@ -1,0 +1,33 @@
+.btn-khog {
+    font-weight: 850;
+    width: 129px;
+    display: block;
+    margin-bottom: 10px;
+    height: 38px;
+    border-radius: 20px;
+    color: #7dc8c8;
+    border: 2px solid #7dc8c8;
+    background-color: #fff;
+}
+
+.btn-god {
+    width: 38px;
+    background-color: #00d1b2;
+    color: #fff;
+    display: block;
+    margin-bottom: 10px;
+    height: 38px;
+    border-radius: 50%;
+    border: none;
+}
+
+.btn-bana {
+    width: 149px;
+    background-color: #2b78e4;
+    color: #fff;
+    border: 2px solid #000;
+    display: block;
+    margin-bottom: 10px;
+    height: 38px;
+    box-shadow: 3px 3px black;
+}
